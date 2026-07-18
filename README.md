@@ -195,6 +195,6 @@ Proyek aplikasi perangkat lunak (*software*) ini didistribusikan & dirilis ke pu
 
 ## 👤 Penulis
 
-**[Menambahkan Nama/github.com/akun Pengarang]**
+**[Muhammad Daffa Fadillah]**
 
 *(Dokumentasi teknis dibuat bersandingan dengan rilis PRD - Juli 2026).*
